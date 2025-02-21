@@ -4,8 +4,7 @@ GitLab Connect is a Google Apps Script project that integrates Google Sheets wit
 
 ## Features
 - 📊 Fetch GitLab data and display it in a Google Spreadsheet.
-- ✍️ Write updates to GitLab from the spreadsheet.
-- 📂 Organize GitLab data into three different sheets for better management.
+- 📂 Organize GitLab data into three different sheets for better merge request data tracking and metrics.
 
 ## Installation
 1. Open your Google Spreadsheet.
